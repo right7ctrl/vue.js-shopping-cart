@@ -1,0 +1,50 @@
+[{
+  "id": 1,
+  "name": "Şapka",
+  "detail": "Lorem ipsum dolor sit amet",
+  "price": 14,
+  "quantity": 1,
+  "image": "https://www.decathlon.com.tr/media/838/8383422/big_b755833753354ed6bda7cca9fd3c644c.jpg"
+},{
+  "id": 2,
+  "name": "Palto",
+  "detail": "Lorem ipsum dolor sit amet",
+  "price": 225.80,
+  "quantity": 1,
+  "image": "https://img-cetinkaya.mncdn.com/Content/Images/Thumbs/22080860_massa-siyah-palto.jpeg"
+},{
+  "id": 3,
+  "name": "Pantolon",
+  "detail": "Lorem ipsum dolor sit amet",
+  "price": 120.58,
+  "quantity": 1,
+  "image": "https://media1.tchibo-content.de/newmedia/art_img/MAIN_ALT_HD_3-IMPORTED/71d552bc6f1c7dfa/.jpg"
+},{
+  "id": 4,
+  "name": "Ayakkabı",
+  "detail": "Lorem ipsum dolor sit amet",
+  "price": 125.65,
+  "quantity": 1,
+  "image": "https://st-reebok.mncdn.com/reebok/mnresize/1500/1500/Content/media/ProductImg/original/BS7343-reebok-royal-complete-clean-ayakkabi-636514692444389970.jpg"
+},{
+  "id": 5,
+  "name": "Fular",
+  "detail": "Lorem ipsum dolor sit amet",
+  "price": 14.90,
+  "quantity": 1,
+  "image": "https://www.fullamoda.com/UserFiles/ProductImages/0/17mbggulnar0041/orj/fular-lacivert-29639.jpg"
+},{
+  "id": 6,
+  "name": "Kıravat",
+  "detail": "Lorem ipsum dolor sit amet",
+  "price": 15.50,
+  "quantity": 1,
+  "image": "http://www.outlet34.com/mavi-saten-ince-kravat-ad8102-kopya1-4-nce-kravatlar-milano-exclusive-ad8146-11124-34-B.jpg"
+},{
+  "id": 7,
+  "name": "Çorap",
+  "detail": "Lorem ipsum dolor sit amet",
+  "price": 5.99,
+  "quantity": 1,
+  "image": "https://st2.myideasoft.com/idea/bo/14/myassets/products/542/seritli-kisa-u.PNG?revision=1518446287"
+}]
